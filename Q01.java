@@ -27,6 +27,8 @@ public class Q01 {
       char letra = s.charAt(meio);
       System.out.println("A letra central é: " + letra);
     }
+    System.out.println("A última letra da palavra é: " + s.charAt(s.length() - 1));
+    
     System.out.println(s.toUpperCase());
     System.out.println(s.toLowerCase());
   }
