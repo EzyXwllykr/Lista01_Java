@@ -1,3 +1,9 @@
+/*
+NOME: Esther Araujo Carreiro
+DISCIPLINA: Desenvolvimento de Aplicações
+TURMA: TCTG241CNTDEV
+*/
+
 import java.util.Scanner;
 
 public class Q02 {
